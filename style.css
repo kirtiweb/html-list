@@ -1,0 +1,32 @@
+blockquote{
+    background-color: magenta;
+    padding: 20px;
+    font-size: 50px;
+    
+}
+
+
+
+.kuch-bhi{
+    background-color: yellow;
+}
+
+.para3{
+    text-align: center;
+}
+
+#para2{
+    background-color: seagreen;
+}
+
+
+table, th, td{
+    border: 2px solid green;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+
+.table-row-second{
+    background-color: magenta;
+}
